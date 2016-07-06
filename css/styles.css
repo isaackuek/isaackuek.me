@@ -1,0 +1,40 @@
+body {
+  font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;  
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+  color: #72777b;
+}
+
+.flex-column {
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+
+.home--nameTitle {
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+
+.home {
+  margin-top: 40%;
+}
+
+.links {
+  line-height: 0;
+}
+
+.home a {
+  text-decoration: none;
+  border-bottom: 2px solid rgba(0,0,0,0);
+}
+
+.home a:hover {
+  border-bottom: 2px solid #1e93a6;
+  transition: 100ms;
+}
