@@ -1,0 +1,57 @@
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.body {
+  font-family: Roboto, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Mono", monospace;
+}
+
+p {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.topNav-links li {
+  font-family: "Roboto Mono", monospace;
+  text-transform: uppercase;
+}
+
+.siteBrand {
+  margin-top: 16px;
+}
+
+.siteBrand h1, .siteBrand p {
+  margin: 0;
+}
+
+.siteBrand-content {
+  font-size: 1.4em;
+}
+
+/* PORTFOLIO CONTENT */
+.project-title {
+  font-family: Roboto, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.7);
+  line-height: 1.8;
+}
+
+.category {
+  color: rgba(0, 0, 0, 0.6);
+}
+.category ul {
+  margin: 0;
+}
+.category li {
+  line-height: 1.8;
+}
