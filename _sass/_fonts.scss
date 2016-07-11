@@ -46,12 +46,35 @@ p {
   line-height: 1.8;
 }
 
+.project-content {
+  h3 {
+    margin-top: 2em;
+  }
+  a {
+    color: #2962ff;
+  }
+}
 .category {
   color: rgba(0, 0, 0, 0.6);
+
+  ul {
+    margin: 0;
+  }
+
+  li {
+    line-height: 1.8;
+  }
 }
-.category ul {
-  margin: 0;
+.topNav-links {
+  a:hover {
+    color: rgba(0, 0, 0, 1);
+    transition: 150ms;
+  }
 }
-.category li {
-  line-height: 1.8;
+
+.footer {
+  a:hover {
+    color: rgba(255, 255, 255, 1);
+    transition: 150ms;
+  }
 }

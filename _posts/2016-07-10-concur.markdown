@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Concur"
+subtitle: "Designing actionable dashboards, car mileage tracking mobile app, and Concur's partner application portal."
+heroImage: "/res/concur/concur-teaser.png"
+projectDescription: "I worked on a variety of projects over the past year at Concur from mobile experiences, business intelligence dashboards and partner application portals. The majority of the designs are under an NDA until released."
+projectInfo:
+- title: "BI Dashboards"
+  content:
+  - "4 Months"
+  - "User Research"
+  - "Interaction Design"
+  - "Visual Design"
+  - "Usability Testing"
+- title: "Trace for iOS"
+  content:
+  - "1 Month"
+  - "User Research"
+  - "Interaction Design"
+  - "Visual Design"
+- title: "Trace for iOS"
+  content:
+  - "2 months"
+  - "User Experience Design"
+  - "Interaction Design"
+  - "Front-end Development"
+---
+
+### BI Dashboards
+Suite of persona driven dashboards for travel managers and budget owners. Redesign to release in Q4 2016.
+
+I led a redesign project to redesign persona-driven dashboards to be more user friendly and accessible.
+
+- Color-blind friendly charts and accessible design
+- Ordering dashboard content based on how actionable the data is
+- Established data visualization and dashboard visual framework
+- Created sketches, wireframes and mockups based on newer framework
+- Gathered customer feedback from customer conference and integrated them into designs
+- Proposed and designed quick-access menu to dashboards in legacy system
+- Simplified budget configuration screens together with tech writer
+
+[Concur Intelligence Homepage](https://www.concur.com/en-us/business-intelligence)
+
+### Trace for iOS
+Track expense mileage for automatic reimbursement. Now part of Ford SYNC 3 in select 2017 vehicles.
+
+I led the Android & iOS app design for Trace to integrate into Ford SYNC 3 vehicles.
+
+- Conducted comparative study to identify gaps and opportunities for existing Android app designs
+- Audited existing flows and provided recommendations to stakeholders
+- Conducted brainstorming session, updated flows, and iterated on wireframes with stakeholders and engineers.
+- Created high-fidelity mock-ups and assisted engineer with implementation
+
+[Trace Whitepaper](https://drive.google.com/file/d/0BxN1EJFiZLNYcTFsWnJ3dEZ2M0k/view)
+
+### Concur App Center
+Redesign of partner application site to search, discover, and connect to Concur
+
+- Negotiated designs and assisted stakeholders to decide on initial and future layout
+- Brainstormed different interaction models for listing, searching and navigating apps
+- Worked together with dev team and chunked designs into stories
+- Created user flows, mockups and made layout tweaks directly in CSS
+
+[Concur App Center Homepage](https://www.concur.com/en-us/app-center)

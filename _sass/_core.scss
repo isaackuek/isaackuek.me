@@ -5,6 +5,11 @@
   border-top: 5px solid #311B92;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .header, .Home-body, .sideNav {
   width: 80%;
   max-width: 1000px;
@@ -38,9 +43,13 @@ PORTFOLIO TILES
 
 .content-img {
   margin: 1em;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   position: relative;
+  img {
+    width: 200px;
+    height: 200px;
+  }
 }
 
 .content-img::after {
@@ -50,8 +59,9 @@ PORTFOLIO TILES
   right: 0;
   bottom: 0;
   left: 0;
-  border: 5px solid rgba(0, 0, 0, .1);
+  border: 1px solid rgba(0, 0, 0, .1);
 }
+
 
 /*
 ===========
@@ -66,20 +76,42 @@ PORTFOLIO CONTENT
 
 .project-info .category li {
   list-style: none;
+  font-family: "Roboto Mono", monospace;
 }
 
 .category {
   flex: 1;
   margin-right: 2em;
-}
 
-.category ul {
-  padding: 0;
+  ul {
+    padding: 0;
+  }
+  li {
+    line-height: 1.6;
+  }
 }
 
 .project-content {
   max-width: 800px;
   align-self: center;
+
+  li {
+    list-style: square;
+    line-height: 1.8;
+  }
+
+  blockquote {
+    border-left: 5px solid #1A237E;
+    padding-left: 12px;
+    color: #1A237E;
+  }
+
+  img {
+    zoom: 1;
+    max-width: 110%;
+    margin: 0 -5% 0 -5%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
 }
 
 hr {
@@ -167,6 +199,6 @@ FOOTER
   margin-right: 2em;
 }
 
-.footer-copyright: {
+.footer-copyright {
   flex: 1;
 }
