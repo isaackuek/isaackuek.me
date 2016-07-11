@@ -1,4 +1,4 @@
-require "html/proofer"
+require 'html-proofer'
 
 task :default => [:build]
 
@@ -15,12 +15,10 @@ task :rebuild => [:clean, :build] do
 end
 
 task :test do
-	HTML::Proofer.new("./_site", {
-		:href_ignore => [
-			"#"
-		],
-		:disable_external => true
-	}).run
+  HTMLProofer.check_directory("./site", {
+    :allow_hash_href => true,
+    :disable_external => true
+    }).run
 end
 
 task :cibuild => [:rebuild, :test] do
