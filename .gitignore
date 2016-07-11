@@ -3,3 +3,4 @@ TEMP
 .git
 .sass-cache
 _site
+vendor
