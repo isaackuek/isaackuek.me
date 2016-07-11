@@ -1,6 +1,5 @@
 .DS_Store
-TEMP
-.git
 .sass-cache
 _site
 vendor
+Gemfile.lock
