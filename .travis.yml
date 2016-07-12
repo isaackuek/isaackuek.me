@@ -1,5 +1,7 @@
 language: ruby
-cache: bundler
+cache:
+  directories:
+  - vendor/bundle
 rvm:
 - 2.3.1
 install: bundle install
