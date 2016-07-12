@@ -15,12 +15,12 @@ script:
 - rake cibuild
 - set -e
 - rake build
-- git checkout -b gh-pages
+- git checkout --orphan gh-pages
 - echo "isaackuek.me" > _site/CNAME
 - git add -f _site/
 - git commit -m "${COMMIT_MESSAGE}"
 - git filter-branch -f --subdirectory-filter _site/
-- git push -f git@github.com:isaackuek/isaackuek.git gh-pages:gh-pages
+- git push -f git@github.com:isaackuek/isaackuek.me.git gh-pages:gh-pages
 branches:
   only:
   - master

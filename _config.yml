@@ -17,4 +17,7 @@ permalink: /portfolio/:title
 
 # Build settings
 markdown: kramdown
-exclude: [vendor]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
