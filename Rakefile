@@ -15,9 +15,10 @@ task :rebuild => [:clean, :build] do
 end
 
 task :test do
-  HTMLProofer.check_directory("./site", {
+  HTMLProofer.check_directory("./_site", {
     :allow_hash_href => true,
-    :disable_external => true
+    :disable_external => true,
+		:assume_extension => true
     }).run
 end
 

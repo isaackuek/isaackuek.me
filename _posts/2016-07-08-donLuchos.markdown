@@ -18,7 +18,7 @@ projectInfo:
   - "Nikon D5100"
 ---
 
-I partnered with [Daniel](danielmartinezvilla.com) to design and develop Carlo's website, working closely with him during the process. My contributions included initial sketches, user testing, front-end development, taking pictures of the sandwiches (and eating the said sandwiches).
+I partnered with [Daniel](http://danielmartinezvilla.com) to design and develop Carlo's website, working closely with him during the process. My contributions included initial sketches, user testing, front-end development, taking pictures of the sandwiches (and eating the said sandwiches).
 
 ### The Problem
 
@@ -53,6 +53,6 @@ With a mobile first approach, we began brainstorming various versions of how the
 After Carlo had given us the green light, we began developing his site using Bootstrap, Yeoman, SCSS and a little bit of JavaScript to get the calendar working.
 
 ### Results
-The site is now currently live at [donluchosinseattle.com](donluchosinseattle.com) and is visited regularly by customers.
+The site is now currently live at [donluchosinseattle.com](http://donluchosinseattle.com) and is visited regularly by customers.
 
 Daniel and I are continuously working with Carlo to update and redesign the site during our spare time.

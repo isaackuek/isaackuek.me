@@ -20,9 +20,9 @@ script:
 - git add -f _site/
 - git commit -m "${COMMIT_MESSAGE}"
 - git filter-branch -f --subdirectory-filter _site/
-- git push -f git@github.com:isaackuek/isaackuek.me.git gh-pages:gh-pages
+- git push -f https://GH_TOKEN@github.com/isaackuek/isaackuek.me.git gh-pages:gh-pages
 branches:
   only:
   - master
 env:
-- NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
