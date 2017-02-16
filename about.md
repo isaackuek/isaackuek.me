@@ -14,3 +14,6 @@ While studying, I've interned as a User Researcher at Amazon and as a UX Designe
 [1]: https://ischool.uw.edu/current/informatics/degree-plan/options
 
 [What's your story?](mailto:kuek.isaac@gmail.com)
+
+
+asd
