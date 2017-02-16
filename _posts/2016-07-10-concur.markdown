@@ -18,7 +18,7 @@ projectInfo:
   - "User Research"
   - "Interaction Design"
   - "Visual Design"
-- title: "Trace for iOS"
+- title: "Concur App Center"
   content:
   - "2 months"
   - "User Experience Design"
