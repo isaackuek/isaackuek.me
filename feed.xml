@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isaac Kuek</title>
+    <description>Seattle based UX Designer with Interaction Design, Data Visualization and Front-End Development experience.</description>
+    <link>http://isaackuek.me/</link>
+    <atom:link href="http://isaackuek.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Feb 2017 17:12:47 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 17:12:47 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Concur</title>
+        <description>&lt;p&gt;&lt;a href=&quot;mailto:kuek.isaac@gmail.com&quot;&gt;Contact me&lt;/a&gt; personally for work samples.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jul 2016 00:00:00 +0000</pubDate>
+        <link>http://isaackuek.me/portfolio/concur</link>
+        <guid isPermaLink="true">http://isaackuek.me/portfolio/concur</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fiternity</title>
+        <description>&lt;p&gt;Our goal was to develop clickable prototypes in three months, and fully develop the application in the next three months, in time for our Capstone presentations. The challenge with our project is the fitness market space: There are countless fitness applications in the App Store and the Play Store.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“How do we differentiate ourselves with a fixed timeline and resource constraints?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/a/uw.edu/file/d/0BxN1EJFiZLNYc0JTVVE1OGJ0UEU/view&quot;&gt;Case Study&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;/h3&gt;
+
+&lt;p&gt;We interviewed students, working professionals, and fitness trainers and found:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fitness trainers wanted to use this service to gain clients and earn money.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People were concerned about their privacy, and wanted granular control over who they would meet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People would be more likely to partner up with someone of equal expertise when exercising.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We realized fitness trainers was not our core audience and wanted to focus more on the individuals seeking exercise partners. As such, we had to refine our feature list and target audiences.&lt;/p&gt;
+
+&lt;p&gt;To internalize our findings, we created 2 personas based on the results of our interviews. This helped us relate back to our target audience during future stages of the design.&lt;/p&gt;
+
+&lt;h3 id=&quot;competitive-analysis&quot;&gt;Competitive Analysis&lt;/h3&gt;
+
+&lt;p&gt;We conducted a brief comparative analysis, looking at web and mobile applications such as VirtuaGym, Meetup.com, and Fitness Against Friends to understand what aspects of fitness other services addressed.&lt;/p&gt;
+
+&lt;p&gt;We discovered that a lot of applications utilized only Facebook as an authentication service and were focused on personal fitness improvement rather than finding matching exercise partners.&lt;/p&gt;
+
+&lt;h3 id=&quot;conceptual-designs&quot;&gt;Conceptual Designs&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/fiternity/process.jpg&quot; alt=&quot;Process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I held a sketching session with the team, encouraging them to generate rough sketches of a part of the interface they wanted. This started really broad at first, but it became clear to us that our individual sketches needed to be weaved together in some way. To arrive at our user goals, we brainstormed potential use cases based on our two personas as a team, creating a rough user journey map with our initial sketches.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/fiternity/userFlow.png&quot; alt=&quot;User Flows&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Completing user flows allowed us to then visualize the main interactions on each screen. This process was extremely helpful because it helped the team generate consensus and alignment on the user flow and what elements should be shown on the page.&lt;/p&gt;
+
+&lt;h3 id=&quot;iterative-prototyping--testing&quot;&gt;Iterative Prototyping &amp;amp; Testing&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/fiternity/paperPrototypes.jpg&quot; alt=&quot;Paper Prototypes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We refined our initial ideas gathered from interviews and sketches into a paper prototype for usability testing. Our main objective was to get feedback on the onboarding process and general app flow. We realized a few things through usability tests:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Most participants wanted an in-app messaging system to contact their matches.&lt;/li&gt;
+  &lt;li&gt;Participants found initial profile setup page was too cluttered.&lt;/li&gt;
+  &lt;li&gt;Some participants did not understand the process of modifying activities
+(because we used tags with an X mark to delete them)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;final-poster&quot;&gt;Final Poster&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/fiternity/FiternityPoster_v0.8.png&quot; alt=&quot;Poster&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jul 2016 00:00:00 +0000</pubDate>
+        <link>http://isaackuek.me/portfolio/fiternity</link>
+        <guid isPermaLink="true">http://isaackuek.me/portfolio/fiternity</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Don Luchos</title>
+        <description>&lt;p&gt;I partnered with &lt;a href=&quot;http://danielmartinezvilla.com&quot;&gt;Daniel&lt;/a&gt; to design and develop Carlo’s website, working closely with him during the process. My contributions included initial sketches, user testing, front-end development, taking pictures of the sandwiches (and eating the said sandwiches).&lt;/p&gt;
+
+&lt;h3 id=&quot;the-problem&quot;&gt;The Problem&lt;/h3&gt;
+
+&lt;p&gt;Carlo’s food cart would visit different breweries each week. As his schedule constantly rotates, he uses Facebook and Instagram to indicate his location and hours.&lt;/p&gt;
+
+&lt;p&gt;Other food truck operators have dedicated websites which show their updated schedules and menu. Carlo wanted to have a website that would show his upcoming locations, menu and his biography.&lt;/p&gt;
+
+&lt;p&gt;Peruvian Sandwich lovers have to scroll through their Facebook feeds to find where Carlo will be operating.&lt;/p&gt;
+
+&lt;h3 id=&quot;design-process&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;We conducted a competitive analysis of other food truck websites on the internet and gathered our findings to see what Carlo’s site could improve on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Only some food truck websites were mobile-friendly and had a responsive layout.&lt;/li&gt;
+  &lt;li&gt;Food trucks with changing schedules use Google Calendar’s web frame, which had a dated look.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After discussing our findings and recommendations, Carlo wanted to have:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A built in schedule that links to his Google Calendar.&lt;/li&gt;
+  &lt;li&gt;A simple menu of his sandwiches, contact link and biography.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/donLuchos/sketchesDonLuchos.jpg&quot; alt=&quot;Initial Sketches&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While sketching, I envisioned users would be curious to know where Carlo’s food cart is in the next few days and what kinds of sandwiches he would have.&lt;/p&gt;
+
+&lt;p&gt;With a mobile first approach, we began brainstorming various versions of how the website would look like on paper. After rounds of brainstorming and discussion, we finalized our designs with a hi-fi mockup of how the site would look like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/res/donLuchos/DonLuchosiPhoneOmniGraffle.png&quot; alt=&quot;Omnigraffle Mockup&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We decided to only show 2-3 upcoming events and conceal the rest because 80% of users would only begin searching for food carts a few days in advance or the day of.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After Carlo had given us the green light, we began developing his site using Bootstrap, Yeoman, SCSS and a little bit of JavaScript to get the calendar working.&lt;/p&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+&lt;p&gt;The site is now currently live at &lt;a href=&quot;http://donluchosinseattle.com&quot;&gt;donluchosinseattle.com&lt;/a&gt; and is visited regularly by customers.&lt;/p&gt;
+
+&lt;p&gt;Daniel and I are continuously working with Carlo to update and redesign the site during our spare time.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate>
+        <link>http://isaackuek.me/portfolio/donLuchos</link>
+        <guid isPermaLink="true">http://isaackuek.me/portfolio/donLuchos</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Amazon</title>
+        <description>&lt;p&gt;Our user research concluded with valuable customer data, the common pathways visitors used, and design recommendations for the redesign of the Warehouse Deals storefront.&lt;/p&gt;
+
+&lt;p&gt;To increase customer conversion, our user research goals were to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Identify pathways visitors used to reach the storefront&lt;/li&gt;
+  &lt;li&gt;Identify usability issues with the storefront and its discoverability&lt;/li&gt;
+  &lt;li&gt;Quantitatively analyze Amazon Warehouse Deals customers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;competitive-analysis&quot;&gt;Competitive Analysis&lt;/h3&gt;
+
+&lt;p&gt;We began by analyzing competing online retailers (Ebay, Overstock, etc.) and identifying best design practices that may be applicable to Warehouse Deals storefront.
+Surveys were designed with SurveyMonkey.&lt;/p&gt;
+
+&lt;h3 id=&quot;survey-design&quot;&gt;Survey Design&lt;/h3&gt;
+
+&lt;p&gt;We designed 2 surveys to achieve separate goals. I designed the main survey to identify habits of online shoppers and potential Warehouse Deals users. Our second survey, focused at Warehouse Deals users, was to identify popular purchases on the storefront and to screen potential customers for our usability interviews. Both surveys underwent several iterations amongst the group to reduce bias and ambiguous questions.
+Designing usability script&lt;/p&gt;
+
+&lt;h3 id=&quot;usability-test-design&quot;&gt;Usability Test Design&lt;/h3&gt;
+
+&lt;p&gt;We designed our usability test to find out how users navigated to the storefront and also identify usability issues of the storefront itself. The tasks that we designed required several iterations and internal testing to prevent preconditioning and biases from skewing our results.
+Remote Usability Interviews&lt;/p&gt;
+
+&lt;p&gt;After testing and rehearsing our usability scripts, we began our remote interviews with customers and performed testing in pairs. We faced challenges documenting our results consistently between teams. As such, I created an internal form for the scribe to input his/her data systematically into a spreadsheet for easier analysis.&lt;/p&gt;
+
+&lt;h3 id=&quot;data-analysis&quot;&gt;Data Analysis&lt;/h3&gt;
+
+&lt;p&gt;After we completed the interviews, we analyzed the recordings and our field notes to identify customer trends and usability issues with the storefront. Our results and findings were then used to support our design recommendations for the storefront redesign.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+        <link>http://isaackuek.me/portfolio/amazon</link>
+        <guid isPermaLink="true">http://isaackuek.me/portfolio/amazon</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
