@@ -35,10 +35,10 @@ PORTFOLIO TILES
 .Home-content {
   align-items: center;
   margin-bottom: 1em;
-}
 
-.Home-content:hover {
-  background-color: #f9f9f9;
+  &:hover {
+    background-color: #f9f9f9;
+  }
 }
 
 .content-img {
