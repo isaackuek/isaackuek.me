@@ -37,6 +37,7 @@ The project team did not share a clear understanding of what was the most minimu
 * Reduce implementation duration by 2 hours
 * Increase Customer Satisfaction goal by 80%
 
+
 ![Expensify Concierge](/res/concur/concurSetup/SMN CompAnalysis Expensify.png)
 *I created a competitive analysis of how our competitors were tackling setup to see their strengths and potential opportunities.*
 
