@@ -55,7 +55,20 @@ Should the problem help separate reviews from food vs. wait staff?
 
 `Interview users to validate and unpack pain points, understand current landscape, cross check against scope, assumptions and success criteria`
 
-I had to understand the current landscape of wait staffs, the hiring process, and also how diners provide feedback to wait staffs. I began the project by interviewing wait staffs, diners, and also hiring managers at restaurants to understand their perceptions around customer feedback to compare against my assumptions.
+Going into this design exercise, I broke down the design prompt to better understand the design need. I identified potential users based on the prompt and wrote down things I needed to research on.
+
+[Design prompt breakdown]
+
+## User interviews
+
+
+I had to understand the current landscape of wait staffs, the hiring process, and also how diners provide feedback to wait staffs. After identifying the research questions I wanted to ask, I began the project by interviewing wait staffs, diners, and also hiring managers at restaurants to understand their perceptions around customer feedback to compare against my assumptions:
+
+1. Diners read restaurant reviews more often than they leave reviews. There are some hurdles to reviewing restaurants.
+2. Some diners would mention the server, but mostly would review the food and dining experience overall.
+
+
+[Research sketch]
 
 #### Key takeaways
 
@@ -72,7 +85,6 @@ I had to understand the current landscape of wait staffs, the hiring process, an
 > "I really appreciate it when people thank me - it makes me feel appreciated and that keeps me going, and to know that I didn't mess something up!" - Megan, Gainsbourg
 
 - Hiring managers prioritize experience from previous jobs, menu knowledge, and personal referrals when considering candidates.
-> "Normally, I'll contact their personal references and ask about their work ethic." - Jennifer, Le Petit Cochon
 
 - Hiring managers would be open to considering positive customer feedback for servers.
 
@@ -127,11 +139,7 @@ Servers that have previously used the tool can see their previous information. I
 
 # 2 of 2: The diner experience
 
-From the interviews I've gathered, there is a small window where diners have the highest tendency to leave reviews. I brainstormed many different entry points to collecting feedback. Perhaps we can send an email after they've dined? What if we sent them a simple text that they can reply with their feedback? For the initial designs, I opted for two ways to review on a receipt: a QR code, and an SMS link to the feedback.
-
-- This allows for any restaurant to easily adopt and integrate the tool into their Point of Sale systems without previously having customer details.
-- Restaurants can include a small incentive for diners if they were to leave a review.
-- In the future, this can also work with digital receipts by adding the feedback link.
+From the interviews I've gathered, there is a small window where diners have the highest tendency to leave reviews. I brainstormed many different entry points to collecting feedback. Perhaps we can send an email after they've dined? What if we sent them a simple text that they can reply with their feedback? For the initial designs, I opted for two ways to review on a receipt: a QR code, and an SMS link to the feedback. This allows for any restaurant to easily adopt and integrate the tool into their Point of Sale systems without previously having customer details.
 
 [04 Server Experience]
 
@@ -141,27 +149,31 @@ From the interviews I've gathered, there is a small window where diners have the
 It was important to get the content and review flow short for diners to complete, yet meaningful for servers to take action on.
 While a lot of review flows for restaurants request for a star rating and comments, I opted for star ratings and a multiple choice question about the service. Diners can easily complete the survey with just a star rating and selecting things their server did well, and can always add optional comments if they feel inclined.
 
-This allows diners to identify what worked well and what they can improve on in the future.
+The flow branches into two questions depending on the rating given. If a diner were to rate the server highly, the review asks what the server did well. However, if the diner rated the server poorly, the review asks what the server could improve on.
+This allows performant servers to understand what works well, and less performant servers to diagnose what they can improve on.
 
 [Lofi Designs - New frame]
 
-I created higher fidelity wireframes and converted them into clickable prototypes for guerilla usability testing.
-
-
 ## User Testing
+
+I created higher fidelity wireframes and converted them into an InVision prototype for guerilla usability testing with diners to see if the experience achieved the design goals I laid out.
+
+[Short movie of the prototype]
 
 The two goals I had for testing were:
 * Diners can access the review link from either the QR code or via texting
 * Understand issues and any unmet needs when diners are reviewing servers.
+
+I gave the diners a hypothetical scenario dining at Purple Cafe with Jenna as their server, and tasked them to review their server. Depending on what the diners did, I asked them to review again with an opposite rating to their previous one. This was so that they can see the changes in the questionnaire based on the rating they gave. I had the participants vocalize what they were thinking and doing.
 
 # Results and takeaways
 Diners were able to successfully complete the review process. They were able to rate and provide feedback to the server in very short amount of time and were pleasantly surprised at the length of the review.
 
 Some diners indicated that they would have only reviewed the server if they had an incentive to do so. One diner mentioned they would be more inclined to review if the server left a personal note thanking them.
 
-> "But overall I enjoyed the simplicity of it and if it's that easy to review someone I would totally do it (if I had the incentive to)" - Diner
+> "But overall I enjoyed the simplicity of it and if it's that easy to review someone I would totally do it (if I had the incentive to)."
 
-> "It's really user friendly. the QR code is really useful, too." - Diner
+> "It's really user friendly. the QR code is really useful, too. Though I know most of my friends don't scan QR codes."
 
 ## Iteration on Designs
 While the design simplified the review process, there needs to be some form of incentive when asking for reviews. I explored adding a simple '20% coupon' in the receipt when diners reviewed servers. Towards the end of the review flow, I added an email field so that diners can optionally add their email to receive the coupon.
@@ -181,7 +193,7 @@ Initial design goals:
 1. **Make it seamless for diners to leave feedback for their servers.**
 Diners are able to quickly complete a server review after a meal, especially if provided with a small incentive. Going through the flow, the diners I usability tested with were able to complete the review process easily and quickly.
 2. **Provide multiple ways to review servers.**
-Given two pathways, the diners I tested the design with went both through the QR code and texting flows. Given that QR codes require an app to scan the code, a texting flow is a safe and universal alternative.
+The diners I tested the design accessed the review link both through the QR code and texting flows. Given that QR codes require an app to scan the code, a texting flow is a safe and universal alternative. In the future, diner reviews can be collected from digital receipts.
 3. **Increase adoption of using customer feedback in reviews and hiring.**
 Given that I was only able to gather diners for usability testing, I would plan to test out the server and restaurant manager experience with staff from local restaurants to see if the experience is something they would consider using in reviews and hiring. In the long run, I would conduct surveys with restaurants over a set period of time to understand if the use of customer feedback is increasing.
 
